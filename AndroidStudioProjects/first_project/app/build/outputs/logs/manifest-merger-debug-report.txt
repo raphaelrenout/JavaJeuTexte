@@ -1,0 +1,108 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/renout/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/39bdf7b01fb24b60ed86fb2cf3c11c19/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/renout/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6601fb2ed7c5365e51f86fadbb541f90/AndroidManifest.xml:2:1-11:12
+MERGED from [com.mikhaellopez:circularimageview:3.0.2] /Users/renout/.gradle/caches/transforms-1/files-1.1/circularimageview-3.0.2.aar/acd895ac7b99778c8b27e1f1e2a2572b/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/renout/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/81c1c2b00d48d90019b78f881312707b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/renout/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/c3f0375f097b368ae18c8d163ac9dfc2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/renout/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/4f8abc60ebe46032e8034a9af01e8e81/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/renout/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/99f855b781f8ef0d1b21d124111cf635/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/renout/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/f9338c3ca5f25183979fc67bc75b9d5a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /Users/renout/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/c1ba7c439648c2becf148fb57e917326/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/renout/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/58921a124af40220ea9172507561e95b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/renout/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/2b559e8b374ba4bdcfd62378d73e7ffa/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/renout/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fcf573b935b94e8c2c9dfcf5e540661b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/renout/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5df96228fc63f9e929297a91929fa537/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml
+		ADDED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml
+		ADDED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/renout/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6601fb2ed7c5365e51f86fadbb541f90/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/renout/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6601fb2ed7c5365e51f86fadbb541f90/AndroidManifest.xml:9:5-20
+MERGED from [com.mikhaellopez:circularimageview:3.0.2] /Users/renout/.gradle/caches/transforms-1/files-1.1/circularimageview-3.0.2.aar/acd895ac7b99778c8b27e1f1e2a2572b/AndroidManifest.xml:11:5-13:38
+MERGED from [com.mikhaellopez:circularimageview:3.0.2] /Users/renout/.gradle/caches/transforms-1/files-1.1/circularimageview-3.0.2.aar/acd895ac7b99778c8b27e1f1e2a2572b/AndroidManifest.xml:11:5-13:38
+	android:supportsRtl
+		ADDED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.renout.first_project.MainActivity
+ADDED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml
+INJECTED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/renout/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/39bdf7b01fb24b60ed86fb2cf3c11c19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/renout/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/39bdf7b01fb24b60ed86fb2cf3c11c19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/renout/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6601fb2ed7c5365e51f86fadbb541f90/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/renout/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6601fb2ed7c5365e51f86fadbb541f90/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mikhaellopez:circularimageview:3.0.2] /Users/renout/.gradle/caches/transforms-1/files-1.1/circularimageview-3.0.2.aar/acd895ac7b99778c8b27e1f1e2a2572b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikhaellopez:circularimageview:3.0.2] /Users/renout/.gradle/caches/transforms-1/files-1.1/circularimageview-3.0.2.aar/acd895ac7b99778c8b27e1f1e2a2572b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/renout/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/81c1c2b00d48d90019b78f881312707b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/renout/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/81c1c2b00d48d90019b78f881312707b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/renout/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/c3f0375f097b368ae18c8d163ac9dfc2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/renout/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/c3f0375f097b368ae18c8d163ac9dfc2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/renout/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/4f8abc60ebe46032e8034a9af01e8e81/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/renout/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/4f8abc60ebe46032e8034a9af01e8e81/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/renout/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/99f855b781f8ef0d1b21d124111cf635/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/renout/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/99f855b781f8ef0d1b21d124111cf635/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/renout/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/f9338c3ca5f25183979fc67bc75b9d5a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/renout/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/f9338c3ca5f25183979fc67bc75b9d5a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/renout/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/c1ba7c439648c2becf148fb57e917326/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/renout/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/c1ba7c439648c2becf148fb57e917326/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/renout/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/58921a124af40220ea9172507561e95b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/renout/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/58921a124af40220ea9172507561e95b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/renout/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/2b559e8b374ba4bdcfd62378d73e7ffa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/renout/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/2b559e8b374ba4bdcfd62378d73e7ffa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/renout/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fcf573b935b94e8c2c9dfcf5e540661b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/renout/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fcf573b935b94e8c2c9dfcf5e540661b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/renout/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5df96228fc63f9e929297a91929fa537/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/renout/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5df96228fc63f9e929297a91929fa537/AndroidManifest.xml:20:5-44
+INJECTED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml
+INJECTED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml
+		ADDED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml
+		ADDED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/renout/AndroidStudioProjects/first_project/app/src/main/AndroidManifest.xml

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mon CV</string>
+    <string name="whoiamtitle">Qui suis je ?</string>
+    <string name="age">%1$d ans</string>
+</resources>

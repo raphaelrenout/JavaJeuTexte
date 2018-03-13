@@ -1,0 +1,54 @@
+body {
+    background-color: #ddd;
+}
+
+header {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 44px;
+    border-bottom: 2px solid #1fbed6;
+    background-color: #fff
+}
+
+
+.menu-toggler__label {
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 10px;
+    bottom: 0;
+    width: 44px;
+    height: 100%;
+}
+
+.menu-toggler__label:hover,
+.menu-toggler__label:focus,
+.menu-toggler__label:active {
+    cursor: pointer
+}
+
+.menu-toggler__label__visual span {
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 6px;
+    background-color: #1fbed6;
+    opacity: 1;
+}
+
+.menu-toggler__label__visual span:nth-child(1){
+    top: 5px;
+}
+
+.menu-toggler__label__visual span:nth-child(2) {
+    top: 50%;
+    margin-top: -3px
+}
+
+.menu-toggler__label__visual span:nth-child(3) {
+    bottom: 5px;
+} 
+
+

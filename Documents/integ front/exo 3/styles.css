@@ -1,0 +1,21 @@
+.scroll {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  justify-content: flex-end;
+}
+
+.scroll:after {
+    position: relative;
+    padding-bottom: 20px;
+    content: "↓";
+    animation: jump 0.5s infinite linear alternate;
+}
+
+
+@keyframes jump {
+  0%   {transform: translateY(0px);}
+  50%  {transform: translateY(10px);}
+  100% {transform: translateY(20px);}
+}
